@@ -1,0 +1,29 @@
+.jet-img {
+  height: 983px;
+  size: absolute;
+ background-image: url('http://orig13.deviantart.net/7e46/f/2011/143/7/5/f22_raptor_by_abovetopsecret-d3h2r9t.jpg');
+} 
+
+
+footer {
+  text: purple;
+  background-color: rgb(32, 223, 64);
+  height: 155px;
+}
+
+
+.flex-container {
+  height: 55px;
+  width: 55px;
+}
+
+main #h4 {
+  font: 3px;
+  border: 2px;
+color: snow;
+}
+
+
+.my-vid {
+  background-color: seagreen;
+}
