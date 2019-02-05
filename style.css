@@ -1,7 +1,7 @@
 .jet-img {
-  height: 983px;
-  size: absolute;
- background-image: url('http://orig13.deviantart.net/7e46/f/2011/143/7/5/f22_raptor_by_abovetopsecret-d3h2r9t.jpg');
+  background: center center no-repeat;
+  background-image: url('http://orig13.deviantart.net/7e46/f/2011/143/7/5/f22_raptor_by_abovetopsecret-d3h2r9t.jpg');
+  background-size: cover;
 } 
 
 
